@@ -1,3 +1,4 @@
 # Amazon_Sales_Project
 
-THis is Amazon Sales
+This is Amazon Sales Analysis Project
+
